@@ -1,5 +1,1 @@
-index.html  test1.txt  text2.txt
-
-
-
-modified version of the git file
+index.html  index2.php	test1.txt  test3.txt  text2.txt
