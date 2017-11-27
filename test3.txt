@@ -1,0 +1,14 @@
+ Volume in drive D has no label.
+ Volume Serial Number is B0C4-3C5C
+
+ Directory of D:\videos\devops\myProject
+
+27-Nov-17  02:58 PM    <DIR>          .
+27-Nov-17  02:58 PM    <DIR>          ..
+27-Nov-17  12:45 PM                22 index.html
+27-Nov-17  12:49 PM                44 index2.php
+27-Nov-17  12:36 PM               348 test1.txt
+27-Nov-17  02:58 PM                 0 test3.txt
+27-Nov-17  12:49 PM                73 text2.txt
+               5 File(s)            487 bytes
+               2 Dir(s)  267,153,305,600 bytes free
